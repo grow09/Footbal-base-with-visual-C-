@@ -1,0 +1,53 @@
+D:\Новая папка (3)\footbal\footbal\bin\Debug\footbal.exe.config
+D:\Новая папка (3)\footbal\footbal\bin\Debug\footbal.exe
+D:\Новая папка (3)\footbal\footbal\bin\Debug\footbal.pdb
+D:\Новая папка (3)\footbal\footbal\bin\Debug\MySql.Data.dll
+D:\Новая папка (3)\footbal\footbal\bin\Debug\Google.Protobuf.dll
+D:\Новая папка (3)\footbal\footbal\bin\Debug\BouncyCastle.Crypto.dll
+D:\Новая папка (3)\footbal\footbal\bin\Debug\Renci.SshNet.dll
+D:\Новая папка (3)\footbal\footbal\bin\Debug\MySql.Data.xml
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.csprojAssemblyReference.cache
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.add.resources
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.Form1.resources
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.Properties.Resources.resources
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.TestForm.resources
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.csproj.GenerateResource.cache
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.csproj.CopyComplete
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.exe
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.pdb
+D:\Новая папка (3)\footbal\footbal\obj\Debug\footbal.best.resources
+E:\Visual Studio\footbal\footbal\bin\Debug\footbal.exe.config
+E:\Visual Studio\footbal\footbal\bin\Debug\footbal.exe
+E:\Visual Studio\footbal\footbal\bin\Debug\footbal.pdb
+E:\Visual Studio\footbal\footbal\bin\Debug\Google.Protobuf.dll
+E:\Visual Studio\footbal\footbal\bin\Debug\BouncyCastle.Crypto.dll
+E:\Visual Studio\footbal\footbal\bin\Debug\Renci.SshNet.dll
+E:\Visual Studio\footbal\footbal\bin\Debug\MySql.Data.xml
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.csprojAssemblyReference.cache
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.add.resources
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.best.resources
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.Form1.resources
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.Properties.Resources.resources
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.TestForm.resources
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.csproj.GenerateResource.cache
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.csproj.CopyComplete
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.exe
+E:\Visual Studio\footbal\footbal\obj\Debug\footbal.pdb
+F:\Visual Studio\footbal\footbal\bin\Debug\footbal.exe.config
+F:\Visual Studio\footbal\footbal\bin\Debug\footbal.exe
+F:\Visual Studio\footbal\footbal\bin\Debug\footbal.pdb
+F:\Visual Studio\footbal\footbal\bin\Debug\Google.Protobuf.dll
+F:\Visual Studio\footbal\footbal\bin\Debug\BouncyCastle.Crypto.dll
+F:\Visual Studio\footbal\footbal\bin\Debug\Renci.SshNet.dll
+F:\Visual Studio\footbal\footbal\bin\Debug\MySql.Data.xml
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.csprojAssemblyReference.cache
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.add.resources
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.best.resources
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.Form1.resources
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.Properties.Resources.resources
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.TestForm.resources
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.csproj.GenerateResource.cache
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.csproj.CopyComplete
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.exe
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.pdb
+F:\Visual Studio\footbal\footbal\obj\Debug\footbal.BestPlayer.resources
